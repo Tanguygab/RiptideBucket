@@ -1,0 +1,6 @@
+name: RiptideBucket
+version: 1.0
+main: io.github.tanguygab.riptidebucket.RiptideBucket
+api-version: 1.17
+authors: [ Tanguygab ]
+description: Allows you to use your Riptide Trident while holding a Water Bucket in your offhand!
